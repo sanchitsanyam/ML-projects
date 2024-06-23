@@ -1,8 +1,8 @@
 Sure! Here's a `README.md` file for your project:
 # Predicting Olympic Medals: A Beginner Machine Learning Project
 
-## Overview
-This project is a beginner-level machine learning tutorial that covers the full process of building an end-to-end machine learning project. We will predict the number of medals a country will win in the Olympics using historical and current data.
+
+This project is a beginner-level machine learning project that covers the full process of building an end-to-end machine learning project. We will predict the number of medals a country will win in the Olympics using historical and current data.
 
 ## Project Steps
 The project follows these steps:
