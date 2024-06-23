@@ -1,6 +1,4 @@
 Sure! Here's a `README.md` file for your project:
-
-```markdown
 # Predicting Olympic Medals: A Beginner Machine Learning Project
 
 ## Overview
@@ -33,17 +31,11 @@ Ensure you have the following installed:
 ### Installation
 To set up the project locally, install the following Python packages:
 
-```bash
-pip install pandas numpy scikit-learn seaborn
-```
 
-### Data
-We'll be using data from the Olympics, which was originally available on Kaggle. You can download the files we'll use in this project from the links below:
 
-- [teams.csv](https://link_to_teams_csv)
-- [athlete_events.csv](https://link_to_athlete_events_csv)
 
-Place these files in the project directory.
+
+
 
 ## Usage
 
@@ -77,7 +69,7 @@ This project is licensed under the MIT License.
 - The dataset is sourced from Kaggle.
 - Inspired by various online machine learning tutorials and courses.
 
-```
+
 
 Feel free to customize the content as per your specific needs.
 
