@@ -16,10 +16,10 @@ The project follows these steps:
 7. Train a model.
 
 ## Files
-- `machine_learning.ipynb`: The main project code.
-- `data_prep.ipynb`: Code to generate the team-level dataset from an athlete-level dataset.
-- `teams.csv`: The team-level data used in this project.
-- `athlete_events.csv`: The original athlete-level data.
+- [`machine_learning.ipynb`](https://github.com/sanchitsanyam/ML-projects/blob/main/Olympic_medal_prediction%20(1).ipynb): The main project code.
+- [`data_prep.ipynb`](https://github.com/sanchitsanyam/ML-projects/blob/main/data_prep.ipynb): Code to generate the team-level dataset from an athlete-level dataset.
+- [`teams.csv`](https://github.com/sanchitsanyam/ML-projects/blob/main/teams%20(1).csv): The team-level data used in this project.
+
 
 ## Local Setup
 
